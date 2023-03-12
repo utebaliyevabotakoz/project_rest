@@ -143,12 +143,6 @@ Telegram-бот Autotests bot отправляет графический отч
   <img src="images/screens/Testopps2.PNG" width="950">
 </p>
 
-<p align="center">
-  <img src="images/screens/Testopps3.PNG" width="950">
-</p>
 
-<p align="center">
-  <img src="images/screens/Testopps4.PNG" width="950">
-</p>
 
 [Вернуться к оглавлению ⬆](#Содержание)
