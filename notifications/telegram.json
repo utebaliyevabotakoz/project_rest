@@ -1,6 +1,6 @@
 {
   "base": {
-    "project": "project_mobile",
+    "project": "project_rest",
     "environment": "Test",
     "comment": "QA",
     "reportLink": "",
