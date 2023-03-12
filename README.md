@@ -11,10 +11,8 @@
 + [Варианты запуска](#Варианты-запуска)
     + [Команды для gradle](#команды-для-gradle)
     + [Запуск в Jenkins](#запуск-в-jenkins)
-+ [Telegram уведомления](#Telegram-уведомления)
 + [Результаты тестов в Allure Report](#Результаты-тестов-в-Allure-Report)
 + [Интеграция с Allure TestOps](#Интеграция-с-Allure-TestOps)
-+ [Видео запуска тестов](#Видео-запуска-тестов)
 
 
 
@@ -25,7 +23,7 @@
 - [x] Allure rest-assured listener с custom templates
 - [x] Интеграция с `Allure TestOps`
 - [x] Автотесты как тестовая документация
-- [x] Уведомления в Telegram
+
 
 # <a name="Технологии и инструменты">Технологии и инструменты</a>
 <p  align="center">
@@ -38,7 +36,6 @@
   <code><img width="5%" title="Allure TestOps" src="./images/logo/TestOps.png"></code>
   <code><img width="5%" title="Github" src="./images/logo/GitHub.png"></code>
   <code><img width="5%" title="Jenkins" src="./images/logo/Jenkins.png"></code>
-  <code><img width="5%" title="Telegram" src="./images/logo/Telegram.png"></code>
   <code><img width="5%" title="REST-Assured" src="./images/logo/rest-assured-logo.PNG"></code>
   <code><img width="5%" title="Selenoid" src="./images/logo/selenoid-logo.PNG"></code>
 </p>
@@ -51,7 +48,6 @@
 `Selenoid` - для удаленного запуска браузера в `Docker` контейнерах \
 `REST Assured` - для тестирования REST-API сервисов\
 `Allure Report` - для построения графических отчетов \
-`Telegram Bot` - для уведомлений о результатах тестирования в телеграм бот\
 `Allure TestOps` - как система управления тестированием
 
 [Вернуться к оглавлению ⬆](#Содержание)
@@ -77,18 +73,10 @@ gradle clean test
 
 Результат сборки проекта доступен в:
 >- <code><strong>*Allure Report*</strong></code>
->- <code><strong>*Telegram bot*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
 
 
 [Вернуться к оглавлению ⬆](#Содержание)
-
-
-## <a name="Telegram">[Уведомление в Telegram о результатах прогона тестов](https://t.me/Qa_botakoz_bot)</a>
-
-Telegram-бот Autotests bot отправляет графический отчет каждой сборки.
-<p  align="center"> <img src="images/screens/Telegram1.PNG" width="650"></p>
-
 
 
 # <a name="AllureReport">Результаты тестов в [Allure Report](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/allure/allure)</a>
