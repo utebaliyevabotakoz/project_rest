@@ -6,13 +6,6 @@ import static org.hamcrest.Matchers.is;
 
 public class NewTestsApi {
 
-
-    /*
-       1. Make POST request to https://reqres.in/api/login
-           with body { "email": "eve.holt@reqres.in", "password": "cityslicka" }
-       2. Get response { "token": "QpwL5tke4Pnpja7X4" }
-       3. Check token is QpwL5tke4Pnpja7X4
-    */
     @Test
     void checkListUsers() {
         given()
@@ -25,7 +18,6 @@ public class NewTestsApi {
                 .statusCode(200)
                 .body("total", is(12));
     }
-
 
     @Test
     void loginTest() {

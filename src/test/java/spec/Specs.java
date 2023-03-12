@@ -19,25 +19,18 @@ public class Specs {
             .filter(withCustomTemplates())
             .contentType(ContentType.JSON);
 
-
-
     public static ResponseSpecification response200 = new ResponseSpecBuilder()
             .log(BODY)
             .expectStatusCode(200)
-//          .expectBody(containsString("success"))
             .build();
-
 
     public static ResponseSpecification response201 = new ResponseSpecBuilder()
             .log(BODY)
             .expectStatusCode(201)
             .build();
 
-
     public static ResponseSpecification response400 = new ResponseSpecBuilder()
             .log(STATUS)
             .expectStatusCode(400)
             .build();
-
-
 }

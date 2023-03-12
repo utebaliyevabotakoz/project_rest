@@ -35,5 +35,4 @@ public class LombokGroovyTest {
                 .body("data.findAll{it.email =~/.*?reqres.in/}.email.flatten()",
                         hasItem(expectedUserEmail));
     }
-
 }
