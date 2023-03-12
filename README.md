@@ -27,23 +27,21 @@
 - [x] Автотесты как тестовая документация
 - [x] Уведомления в Telegram
 
-
 # <a name="Технологии и инструменты">Технологии и инструменты</a>
 <p  align="center">
-  <code><img width="5%" title="IntelliJ IDEA" src="./images/logo/Idea.svg"></code>
-  <code><img width="5%" title="Java" src="./images/logo/Java.svg"></code>
-  <code><img width="5%" title="Selenide" src="./images/logo/Selenide.svg"></code>
-  <code><img width="5%" title="Gradle" src="./images/logo/Gradle.svg"></code>
-  <code><img width="5%" title="JUnit5" src="./images/logo/Junit5.svg"></code>
-  <code><img width="5%" title="Allure Report" src="./images/logo/Allure.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="./images/logo/TestOps.svg"></code>
-  <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
-  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="5%" title="Github" src="./images/logo/GitHub.svg"></code>
-  <code><img width="5%" title="Jenkins" src="./images/logo/Jenkins.svg"></code>
-  <code><img width="5%" title="Telegram" src="./images/logo/Telegram.svg"></code>
+  <code><img width="5%" title="IntelliJ IDEA" src="./images/logo/Idea.png"></code>
+  <code><img width="5%" title="Java" src="./images/logo/Java.png"></code>
+  <code><img width="5%" title="Selenide" src="./images/logo/Selenide.png"></code>
+  <code><img width="5%" title="Gradle" src="./images/logo/Gradle.png"></code>
+  <code><img width="5%" title="JUnit5" src="./images/logo/Junit5.png"></code>
+  <code><img width="5%" title="Allure Report" src="./images/logo/Allure.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="./images/logo/TestOps.png"></code>
+  <code><img width="5%" title="Github" src="./images/logo/GitHub.png"></code>
+  <code><img width="5%" title="Jenkins" src="./images/logo/Jenkins.png"></code>
+  <code><img width="5%" title="Telegram" src="./images/logo/Telegram.png"></code>
+  <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.png"></code>
+  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.png"></code>
 </p>
-
 
 `Java` - язык программирования автотестов \
 `Selenide` - фреймворк, на котором написаны автотесты \
