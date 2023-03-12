@@ -1,4 +1,4 @@
-<h2 align="center"> Проект по автоматизации тестирования мобильной версии сайта wikipedia.org </h2>
+<h2 align="center"> Проект по автоматизации тестирования мобильной версии сайта reqres.in </h2>
 <p  align="center">
 <img src="images/logo/reqres.PNG">
 
