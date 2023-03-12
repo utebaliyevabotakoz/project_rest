@@ -39,8 +39,8 @@
   <code><img width="5%" title="Github" src="./images/logo/GitHub.png"></code>
   <code><img width="5%" title="Jenkins" src="./images/logo/Jenkins.png"></code>
   <code><img width="5%" title="Telegram" src="./images/logo/Telegram.png"></code>
-  <code><img width="5%" title="REST-Assured" src="./images/logo/rest-assured-logo.png"></code>
-  <code><img width="5%" title="Selenoid" src="./images/logo/selenoid-logo.png"></code>
+  <code><img width="5%" title="REST-Assured" src="./images/logo/rest-assured-logo.PNG"></code>
+  <code><img width="5%" title="Selenoid" src="./images/logo/selenoid-logo.PNG"></code>
 </p>
 
 `Java` - язык программирования автотестов \
