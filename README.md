@@ -62,17 +62,11 @@
 
 Для запуска локально и в Jenkins используется следующая команда:
 ```bash
-gradle clean test"
+gradle clean test
 ```
 
 
 ## <a name="Запуск в Jenkins">Запуск в [Jenkins](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/)</a>
-
-
-Сборка с параметрами в Jenkins запускается с необходимым ***deviceHost***:
-
-<p  align="center"> <img src="images/screens/JenkinsMain.png" width="950"> </p>
-
 
 
 Главная страница проекта:
