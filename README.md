@@ -1,4 +1,4 @@
-<h2 align="center"> Проект по автоматизации тестирования мобильной версии сайта reqres.in </h2>
+<h2 align="center"> Проект по автоматизации тестирования REST сервисов сайта reqres.in </h2>
 <p  align="center">
 <img src="images/logo/reqres.PNG">
 
@@ -20,6 +20,7 @@
 Проект состоит из тестов API для сайта https://reqres.in/.
 Краткий список фактов о проекте:
 - [x] Используются Модели и Спецификации (Specs)
+- [x] Используется REST Assured
 - [x] Allure rest-assured listener с custom templates
 - [x] Интеграция с `Allure TestOps`
 - [x] Автотесты как тестовая документация
