@@ -20,7 +20,7 @@
 Проект состоит из тестов API для сайта https://reqres.in/.
 Краткий список фактов о проекте:
 - [x] Используются Модели и Спецификации (Specs)
-- [x] Используется REST Assured для тестировнания GET, POST, DELETE сервисов
+- [x] Используется REST Assured для тестирования GET, POST, DELETE сервисов
 - [x] Allure rest-assured listener с custom templates
 - [x] Интеграция с `Allure TestOps`
 - [x] Автотесты как тестовая документация
